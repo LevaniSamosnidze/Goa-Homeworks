@@ -2,7 +2,7 @@ from turtle import *
 
 
 
-speed(1000000000000000)
+speed(0)
 width(4)
 
 
